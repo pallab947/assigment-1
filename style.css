@@ -510,13 +510,13 @@
     }
     
     .F-F-section button {
-        margin: 20px auto !important;
+        margin: 20px auto ;
     }
     
     /* Footer */
     .lastFooter img {
-        width: 30% !important;
-        margin: 20px auto !important;
+        width: 30% ;
+        margin: 20px auto ;
         
     }
     
