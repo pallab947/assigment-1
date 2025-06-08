@@ -389,14 +389,14 @@
     
     .nav-child-section {
         flex-direction: column;
-        height: auto !important;
-        width: 90% !important;
+        height: auto ;
+        width: 90% ;
         align-items: center;
         gap: 15px;
     }
     
     .nav-menu {
-        width: 100% !important;
+        width: 100% ;
     }
     
     .nav-menu ul {
@@ -404,7 +404,7 @@
     }
     
     .nav-button {
-        width: 100% !important;
+        width: 100% ;
         justify-content: space-around !important;
     }
     
@@ -419,32 +419,32 @@
     }
     
     .currency-converter {
-        width: 90% !important;
-        height: auto !important;
-        padding: 20px !important;
+        width: 90% ;
+        height: auto ;
+        padding: 20px ;
     }
     
     .child-currency {
         flex-direction: column;
-        height: auto !important;
+        height: auto ;
     }
     
     .child-currency select,
     .child-currency input {
-        width: 100% !important;
-        margin: 5px 0 !important;
-        padding: 10px !important;
+        width: 100% ;
+        margin: 5px 0 ;
+        padding: 10px ;
     }
     
     .child-currency button {
         width: 100%;
-        margin: 10px 0 !important;
-        padding: 10px !important;
+        margin: 10px 0 ;
+        padding: 10px ;
     }
     
     .mbtn {
-        margin-top: 30px !important;
-        margin-right: 0 !important;
+        margin-top: 30px ;
+        margin-right: 0 ;
     }
     
     /* Second Section */
@@ -464,36 +464,36 @@
     }
     
     .T-C-bar {
-        grid-template-columns: 1fr !important;
+        grid-template-columns: 1fr ;
         gap: 30px;
     }
     
     .Tsection button {
-        position: relative !important;
-        padding: 2% 3% !important;
-        margin-left:20% !important;
+        position: relative ;
+        padding: 2% 3% ;
+        margin-left:20% ;
         margin-top: 27%;
     }
     
     /* Fourth Section */
     .F-R-section {
-        grid-template-columns: 1fr !important;
+        grid-template-columns: 1fr ;
         height: auto;
     }
     
     .F-R-C-S {
-        width: 100% !important;
+        width: 100% ;
         margin-bottom: 30px;
     }
     
     .F-R-C {
-        width: 90% !important;
-        margin: 20px auto !important;
-        margin-left: 5% !important;
+        width: 90% ;
+        margin: 20px auto ;
+        margin-left: 5% ;
     }
     
     .F-R-C-S button {
-        margin: 10px auto !important;
+        margin: 10px auto ;
         display: block;
     }
     
@@ -505,8 +505,8 @@
     }
     
     .F-F-section h1 {
-        width: 100% !important;
-        font-size: 24px !important;
+        width: 100% ;
+        font-size: 24px ;
     }
     
     .F-F-section button {
