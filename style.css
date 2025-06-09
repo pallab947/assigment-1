@@ -389,14 +389,14 @@
     
     .nav-child-section {
         flex-direction: column;
-        height: auto ;
-        width: 90% ;
+        height: auto !important;
+        width: 90% !important;
         align-items: center;
         gap: 15px;
     }
     
     .nav-menu {
-        width: 100% ;
+        width: 100% !important;
     }
     
     .nav-menu ul {
@@ -404,7 +404,7 @@
     }
     
     .nav-button {
-        width: 100% ;
+        width: 100% !important;
         justify-content: space-around !important;
     }
     
@@ -419,32 +419,32 @@
     }
     
     .currency-converter {
-        width: 90% ;
-        height: auto ;
-        padding: 20px ;
+        width: 90% !important;
+        height: auto !important;
+        padding: 20px !important;
     }
     
     .child-currency {
         flex-direction: column;
-        height: auto ;
+        height: auto !important;
     }
     
     .child-currency select,
     .child-currency input {
-        width: 100% ;
-        margin: 5px 0 ;
-        padding: 10px ;
+        width: 100% !important;
+        margin: 5px 0 !important;
+        padding: 10px !important;
     }
     
     .child-currency button {
         width: 100%;
-        margin: 10px 0 ;
-        padding: 10px ;
+        margin: 10px 0 !important;
+        padding: 10px !important;
     }
     
     .mbtn {
-        margin-top: 30px ;
-        margin-right: 0 ;
+        margin-top: 30px !important;
+        margin-right: 0 !important;
     }
     
     /* Second Section */
@@ -464,36 +464,36 @@
     }
     
     .T-C-bar {
-        grid-template-columns: 1fr ;
+        grid-template-columns: 1fr !important;
         gap: 30px;
     }
     
     .Tsection button {
-        position: relative ;
-        padding: 2% 3% ;
-        margin-left:20% ;
+        position: relative !important;
+        padding: 2% 3% !important;
+        margin-left:20% !important;
         margin-top: 27%;
     }
     
     /* Fourth Section */
     .F-R-section {
-        grid-template-columns: 1fr ;
+        grid-template-columns: 1fr !important;
         height: auto;
     }
     
     .F-R-C-S {
-        width: 100% ;
+        width: 100% !important;
         margin-bottom: 30px;
     }
     
     .F-R-C {
-        width: 90% ;
-        margin: 20px auto ;
-        margin-left: 5% ;
+        width: 90% !important;
+        margin: 20px auto !important;
+        margin-left: 5% !important;
     }
     
     .F-R-C-S button {
-        margin: 10px auto ;
+        margin: 10px auto !important;
         display: block;
     }
     
@@ -505,18 +505,18 @@
     }
     
     .F-F-section h1 {
-        width: 100% ;
-        font-size: 24px ;
+        width: 100% !important;
+        font-size: 24px !important;
     }
     
     .F-F-section button {
-        margin: 20px auto ;
+        margin: 20px auto !important;
     }
     
     /* Footer */
     .lastFooter img {
-        width: 30% ;
-        margin: 20px auto ;
+        width: 30% !important;
+        margin: 20px auto !important;
         
     }
     
